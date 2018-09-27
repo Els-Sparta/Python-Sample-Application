@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginx
+    git: git@github.com:Els-Sparta/NginxCookbook.git
+    revision: 9db949240dcf963c99ac9db432fced7a50eda475
+  python
+    git: git@github.com:Els-Sparta/PythonCookbook.git
+    revision: 5932b57369d1c75b0bd7e0f6f8b4433048e30bbd
+
+GRAPH
+  nginx (0.1.0)
+  python (0.1.0)

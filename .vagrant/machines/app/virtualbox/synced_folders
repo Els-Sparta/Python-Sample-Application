@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/":{"guestpath":"/home/ubuntu","hostpath":"/Users/tech-a02/coursework/SpartaPythonApp/Python-Sample-Application","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a02/coursework/SpartaPythonApp/Python-Sample-Application","disabled":false,"__vagrantfile":true}}}
