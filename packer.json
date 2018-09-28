@@ -30,7 +30,7 @@
     },
     {
       "type": "file",
-      "source": "./Python-Sample-Application/",
+      "source": "./",
       "destination": "/home/ubuntu"
     }
   ]
