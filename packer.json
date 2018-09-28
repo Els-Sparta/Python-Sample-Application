@@ -26,12 +26,11 @@
     {
       "type": "chef-solo",
       "cookbook_paths": ["./cookbooks"],
-      "run_list": ["python::default"],
-      "run_list": ["nginx::default"]
+      "run_list": ["python::default", "nginx::default"]
     },
     {
       "type": "file",
-      "source": "../Python-Sample-Application/",
+      "source": "./Python-Sample-Application/",
       "destination": "/home/ubuntu"
     }
   ]
